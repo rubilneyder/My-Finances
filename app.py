@@ -1,6 +1,6 @@
-import streamlit as st
-import pandas as pd
-import plotly.graph_objects as go
+streamlit
+pandas
+plotly
 
 # 1. Setup Data
 # In a real app, use: df = pd.read_csv('financial_data.csv')
