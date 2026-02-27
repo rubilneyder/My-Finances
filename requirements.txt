@@ -1,3 +1,23 @@
-streamlit
-pandas
-plotly
+import React, { useState, useMemo } from 'react';
+import { 
+  TrendingUp, 
+  TrendingDown, 
+  Wallet, 
+  CreditCard, 
+  PieChart, 
+  ArrowUpRight, 
+  ArrowDownRight, 
+  Plus, 
+  Search,
+  LayoutDashboard,
+  ArrowRightLeft,
+  Bell,
+  Settings,
+  MapPin,
+  Clock,
+  BarChart3,
+  Percent,
+  ChevronRight,
+  Filter,
+  MoreVertical
+} from 'lucide-react';
